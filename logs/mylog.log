@@ -1,0 +1,6 @@
+[FATAL] 2023-01-04 19:27:22.364 [main] StepDef - Setup executed...
+[INFO ] 2023-01-04 19:27:22.424 [main] StepDef - chrome browser launched
+[INFO ] 2023-01-04 19:27:25.324 [main] StepDef - url opened
+[INFO ] 2023-01-04 19:27:25.564 [main] StepDef - email address and password entered
+[INFO ] 2023-01-04 19:27:33.697 [main] StepDef - Clicked on login button
+[WARN ] 2023-01-04 19:27:33.705 [main] StepDef - Test passed: Login feature :Page title matched.
